@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "dbe629dad033bfc8724d3fec",
+  "owner": "vuvjgaxd",
+  "repo": "page-6c157d91e9c1d5e47ad95374",
+  "title": "花云(FlowerCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c157d91e9c1d5e47ad95374",
+      "a": "花云(FlowerCloud)",
+      "b": "机场官网线路发布页",
+      "entity": "花云(FlowerCloud)",
+      "brand": "花云(FlowerCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "661402aeafc8fe228c209eca9c54516d8522931892507da53f741488b1b349e6",
+      "content": {
+        "primary_entity": "花云(FlowerCloud)",
+        "keyword1": "花云(FlowerCloud)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 用 Clash Verge 或 v2rayN，macOS 用 ClashX Pro 或 Stash，Android 用 Clash Meta 或 v2rayNG，iOS 用 Shadowrocket 或 Stash，路由器用 OpenWrt 搭配 PassWall。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "按设备选好客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合你的方案",
+          "AI_DESCRIPTION": "，花云(FlowerCloud)提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 月流量与 3 至 20 台设备在线需求。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由。按年付可享更优价格，适合个人、家庭及小型团队按设备数量与流量规模灵活选择。",
+          "AI_FAQ_ANSWER_1": "点击对应套餐即可查看基础版、旗舰版与团队版的流量、设备数量与线路说明。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。多设备用户建议按同时在线数量选择，避免超出后影响使用。",
+          "AI_FAQ_ANSWER_3": "主流客户端均支持导入订阅链接。Windows 可用 Clash Verge，macOS 用 ClashX Pro，Android 用 Clash Meta，iOS 用 Shadowrocket，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线并对游戏加速优化，同时解锁全节点原生流媒体；团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_5": "月付适合短期体验，年付比月付节省约两个月费用。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，长期使用建议选择年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "花云有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备？",
+          "AI_FAQ_QUESTION_3": "如何在不同设备上导入订阅？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版有哪些额外权益？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕流量、设备数量与订阅周期，快速定位合适套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台；团队版 1000GB、20 台，按需匹配。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合游戏与影音用户。",
+          "AI_FEATURE_TEXT_3": "年付比月付节省约两个月费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "专线加速体验",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_GUIDE_INTRO": "三步完成花云订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "花云(FlowerCloud)提供多档海外加速套餐，依据流量、设备数量与线路类型灵活选择，支持主流客户端与订阅导入，满足个人影音、游戏及团队协作的网络加速需求。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付节省约两个月费用",
+          "AI_PLANS_INTRO": "基础版适合轻量浏览，旗舰版适合游戏影音，团队版适合多人协作，按年付价格更优。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与同时在线设备数，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备类型与所需客户端，查看对应平台适配说明。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按客户端文档完成导入与配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "花云套餐与线路"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xazpthf.cn",
+    "host": "xazpthf.cn"
+  },
+  "file_hashes": {
+    "index.html": "1338d9e129f7f434a4d96206e1d90dcf279fe57df4688bbbaf71c29658f3b5ab",
+    "sitemap.xml": "f62e595a82fed7e2d3890e6d7488406b83e63a01bd995baabf1bf3e6116c9913",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "32c3872d24e3e574bf2497a64bcf8deeb3c213b53cdf95d99ff4493414db5263",
+    "robots.txt": "7067c03132ec81c46b6321e2c76fded116755e54f1fbaa4bcb44cc38a1a4f857",
+    "9cfaa54b82672cd25d3ca9303ca55381.txt": "cff712006c5a31683e1cf75df944474dd1fa0fe105b00666625e851a8960da4c"
+  },
+  "revision": "dbb186e96eee24e456357e8fc3e49443a48059dc715d4924eebb336b99851792"
+}
